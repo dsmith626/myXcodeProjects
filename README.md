@@ -7,3 +7,9 @@ Concentration is a matching game. A grid of cards is displayed on the screen, al
 
 ![screen shot 2019-01-10 at 7 02 25 pm](https://user-images.githubusercontent.com/37881002/51006758-4ef44b80-150a-11e9-8ea7-09d3d343745b.png)
 
+
+# Bullseye
+
+Bullseye is a game of precision. The objective of the game is to move the slider to a position proportional to a specified number. 0 being the far left, and 100 being the far right. In addition to the standard gameplay, there is also an exact mode. In exact mode, you must move the slider to the exact number position as opposed to standard mode where you can be within a range.
+
+
