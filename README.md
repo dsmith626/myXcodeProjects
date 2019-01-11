@@ -1,5 +1,5 @@
 # My Xcode Projects
-Some xcode projects I have made. 
+Some xcode projects I have made with Swift. 
 
 # Concentration
 
