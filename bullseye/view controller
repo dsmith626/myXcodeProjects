@@ -39,7 +39,7 @@ class ViewController: UIViewController {
       
         if exactSwitch.isOn == false{
     
-            if (Int(numSlider.value) >= randomNumber-10 && Int(numSlider.value) <= randomNumber+10){
+            if (Int(numSlider.value) >= randomNumber-5 && Int(numSlider.value) <= randomNumber+5){
                   resultLabel.text = "You were spot on! Bullseye!"
                 resultLabel.backgroundColor = UIColor.green
                 
